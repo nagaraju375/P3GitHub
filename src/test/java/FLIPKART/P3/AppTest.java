@@ -17,4 +17,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    // adding new method
+    
+    public void Addnewmethod() {
+    	
+    }
 }
